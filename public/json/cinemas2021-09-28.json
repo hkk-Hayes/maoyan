@@ -1,0 +1,1585 @@
+{
+    "code": 0,
+    "data": {
+        "cinemas": [
+            {
+                "addr": "西城区前门大街大栅栏街36号",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 263,
+                "labels": [
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.895596,
+                "lng": 116.39515,
+                "mark": 0,
+                "nm": "大观楼电影院",
+                "poiId": 89010,
+                "price": 39.0,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张最高立减6元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "60",
+                "score": 907.1428,
+                "sellPrice": "39",
+                "shopId": 1767601,
+                "showTimes": "09:45 | 12:25 | 14:40",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 0,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "房山区拱辰街道天星街1号院7号楼绿地缤纷城F3层",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 13618,
+                "labels": [
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.756134,
+                "lng": 116.161156,
+                "mark": 0,
+                "nm": "SFC上影影城（房山绿地缤纷城店）",
+                "poiId": 52294367,
+                "price": 48.0,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，5.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "0",
+                "score": 904.6512,
+                "sellPrice": "48",
+                "shopId": 61365379,
+                "showTimes": "10:10 | 12:20 | 14:30",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 0,
+                    "giftTag": "",
+                    "hallType": [
+                        "60帧厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "60帧厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "朝阳区东大桥路9号侨福芳草地购物中心LG2-26（尚都SOHO对面）",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 5736,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "RealD厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "RealD 6FL厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.91955,
+                "lng": 116.44965,
+                "mark": 0,
+                "nm": "卢米埃影城（芳草地店）",
+                "poiId": 332108,
+                "price": 69.0,
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "50",
+                "score": 871.4286,
+                "sellPrice": "69",
+                "shopId": 3671251,
+                "showTimes": "12:00 | 14:20 | 16:40",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "RealD厅",
+                        "RealD 6FL厅",
+                        "60帧厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "RealD厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "RealD 6FL厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "60帧厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "海淀区中关村南大街33号国家图书馆内",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 238,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "退",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.944195,
+                "lng": 116.32412,
+                "mark": 0,
+                "nm": "国图影院",
+                "poiId": 271442,
+                "price": 40.0,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张最高立减6元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "60",
+                "score": 868.4211,
+                "sellPrice": "40",
+                "shopId": 2447194,
+                "showTimes": "19:30",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "平谷区渔阳地区迎宾路1号院22号楼BHGMall北京华联平谷购物中心5层F5-13室",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 15082,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    }
+                ],
+                "lat": 40.145775,
+                "lng": 117.09403,
+                "mark": 0,
+                "nm": "华联影城（平谷店）",
+                "poiId": 97314976,
+                "price": 42.9,
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "0",
+                "score": 866.6667,
+                "sellPrice": "42.9",
+                "shopId": 58217510,
+                "showTimes": "10:30 | 11:30 | 12:35",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": ""
+                }
+            },
+            {
+                "addr": "丰台区马家堡东路101号院10号银泰百货6层（地铁10号线角门东站D口）",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 2548,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "退",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "IMAX厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.844296,
+                "lng": 116.38567,
+                "mark": 0,
+                "nm": "华谊兄弟影院（IMAX洋桥店）",
+                "poiId": 1547150,
+                "price": 41.9,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，9.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "80",
+                "score": 866.42334,
+                "sellPrice": "41.9",
+                "shopId": 4514763,
+                "showTimes": "10:20 | 12:30 | 14:40",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "IMAX厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "IMAX厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "朝阳区双桥路3号东星时尚广场5层（近永辉超市）",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 1692,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "CGS中国巨幕厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.90865,
+                "lng": 116.575806,
+                "mark": 0,
+                "nm": "金逸影城（双桥CGS中国巨幕厅店）",
+                "poiId": 1439570,
+                "price": 45.0,
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "0",
+                "score": 861.81824,
+                "sellPrice": "45",
+                "shopId": 6266998,
+                "showTimes": "10:05 | 10:45 | 11:40",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "CGS中国巨幕厅",
+                        "杜比全景声厅",
+                        "60帧厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "CGS中国巨幕厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "60帧厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "东城区北三环东路36号环球贸易中心E座1层",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 99,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "RealD厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "4DX厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "DTS:X 临境音厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.966072,
+                "lng": 116.410965,
+                "mark": 0,
+                "nm": "UME影城（安贞DTS:X店）",
+                "poiId": 94496,
+                "price": 45.5,
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "70",
+                "score": 857.971,
+                "sellPrice": "45.5",
+                "shopId": 3487045,
+                "showTimes": "09:30 | 10:15 | 11:40",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "RealD厅",
+                        "4DX厅",
+                        "DTS:X 临境音厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "RealD厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4DX厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "DTS:X 临境音厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "通州区马驹桥新海东路1号（豪润生活广场7层）",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 8301,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.760006,
+                "lng": 116.54555,
+                "mark": 0,
+                "nm": "大地影院（北京米拉家园店）",
+                "poiId": 6151046,
+                "price": 52.9,
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "0",
+                "score": 856.86273,
+                "sellPrice": "52.9",
+                "shopId": 16790750,
+                "showTimes": "10:20 | 12:25 | 13:45",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "大兴区荣华街道大族广场T3写字楼3层",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 16152,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.790955,
+                "lng": 116.51224,
+                "mark": 0,
+                "nm": "CGV影城（亦庄店）",
+                "poiId": 105355906,
+                "price": 65.0,
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "0",
+                "score": 855.55554,
+                "sellPrice": "65",
+                "shopId": 68937200,
+                "showTimes": "10:40 | 11:15 | 12:15",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "西城区马连道路25号新年华生活购物广场5层",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 5278,
+                "labels": [
+                    {
+                        "color": "#F52B27",
+                        "name": "安心影院",
+                        "url": "http://p1.meituan.net/scarlett/946d67ef54f993a3506944cca42652af3736.png"
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "4DX厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.87713,
+                "lng": 116.32537,
+                "mark": 0,
+                "nm": "耀莱成龙影城（马连道店）",
+                "poiId": 2393654,
+                "price": 39.0,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张最高立减8元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "70",
+                "score": 842.735,
+                "sellPrice": "39",
+                "shopId": 8075953,
+                "showTimes": "09:20 | 10:00 | 10:45",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "4DX厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "4DX厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "房山区兴房大街38号华冠欢乐城四楼",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 9370,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "儿童厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "4K厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.69293,
+                "lng": 115.987305,
+                "mark": 0,
+                "nm": "环球国际影城（房山欢乐城店）",
+                "poiId": 5252975,
+                "price": 38.0,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，9.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "0",
+                "score": 838.0953,
+                "sellPrice": "38",
+                "shopId": 21601900,
+                "showTimes": "09:20 | 10:10 | 11:20",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "儿童厅",
+                        "4K厅",
+                        "60帧厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "儿童厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4K厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "60帧厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "大兴区清源街道金星西路3号绿地缤纷城4层",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 2392,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "4K厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "巨幕厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.764732,
+                "lng": 116.33352,
+                "mark": 0,
+                "nm": "保利国际影城（绿地缤纷城店）",
+                "poiId": 1481117,
+                "price": 39.0,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，11.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "70",
+                "score": 833.871,
+                "sellPrice": "39",
+                "shopId": 4523269,
+                "showTimes": "14:30 | 15:00",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "4K厅",
+                        "巨幕厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "4K厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "东城区金宝街88号金宝汇购物中心一期7层",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 122,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "退",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.915176,
+                "lng": 116.42131,
+                "mark": 0,
+                "nm": "新影联金宝汇影城",
+                "poiId": 1076058,
+                "price": 43.0,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张最高立减6元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "80",
+                "score": 830.303,
+                "sellPrice": "43",
+                "shopId": 3088969,
+                "showTimes": "13:00 | 13:55 | 15:10",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "朝阳区大屯里金泉购物中心318号楼4层",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 23617,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "IMAX厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "4DX厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "儿童厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 40.00447,
+                "lng": 116.41641,
+                "mark": 0,
+                "nm": "金泉港IMAX国际影城",
+                "poiId": 158732678,
+                "price": 49.0,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，9.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "0",
+                "score": 829.72974,
+                "sellPrice": "49",
+                "shopId": 91956468,
+                "showTimes": "09:30 | 09:55 | 10:20",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "IMAX厅",
+                        "杜比全景声厅",
+                        "4DX厅",
+                        "儿童厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "IMAX厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4DX厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "儿童厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "朝阳区北三环东路22号（和平东桥，和平东街，樱花东街）",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 256,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "退",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "4K厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.96894,
+                "lng": 116.42397,
+                "mark": 0,
+                "nm": "金鸡百花影城",
+                "poiId": 89000,
+                "price": 43.0,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张最高立减6元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "30",
+                "score": 828.5714,
+                "sellPrice": "43",
+                "shopId": 1767790,
+                "showTimes": "10:20 | 12:30 | 13:30",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "4K厅",
+                        "60帧厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4K厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "60帧厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "海淀区学清路甲8号圣熙8号购物中心5层西侧（学清路）",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 70,
+                "labels": [
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "巨幕厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 40.00859,
+                "lng": 116.35387,
+                "mark": 0,
+                "nm": "嘉华国际影城（学清路店）",
+                "poiId": 84440,
+                "price": 45.0,
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "70",
+                "score": 828.4091,
+                "sellPrice": "45",
+                "shopId": 4211150,
+                "showTimes": "10:05 | 11:10 | 13:20",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 0,
+                    "giftTag": "",
+                    "hallType": [
+                        "巨幕厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "东城区东长安街1号东方新天地LG层第五区",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 269,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "RealD厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.91,
+                "lng": 116.41698,
+                "mark": 0,
+                "nm": "百老汇影城（东方广场店）",
+                "poiId": 271409,
+                "price": 40.0,
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "40",
+                "score": 822.8572,
+                "sellPrice": "40",
+                "shopId": 1767619,
+                "showTimes": "11:00 | 11:50 | 13:20",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "RealD厅",
+                        "60帧厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "RealD厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "60帧厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "海淀区清河街道清河中街68号清河万象汇东区7层",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 5111,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "IMAX厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 40.03037,
+                "lng": 116.334595,
+                "mark": 0,
+                "nm": "CGV影城（清河IMAX店）",
+                "poiId": 2374984,
+                "price": 78.0,
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "40",
+                "score": 813.1868,
+                "sellPrice": "78",
+                "shopId": 4277880,
+                "showTimes": "10:15 | 10:55 | 11:40",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "IMAX厅",
+                        "60帧厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "IMAX厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "60帧厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            },
+            {
+                "addr": "房山区广阳新路9号院1号楼中粮万科半岛购物广场3层",
+                "cellShows": [],
+                "cityId": 1,
+                "dis": 0.0,
+                "distance": "",
+                "follow": 0,
+                "id": 13028,
+                "labels": [
+                    {
+                        "color": "#579daf",
+                        "name": "改签",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "小吃",
+                        "url": ""
+                    },
+                    {
+                        "color": "#ff9900",
+                        "name": "折扣卡",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "4K厅",
+                        "url": ""
+                    },
+                    {
+                        "color": "#579daf",
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "lat": 39.75359,
+                "lng": 116.20994,
+                "mark": 0,
+                "nm": "幸福蓝海国际影城（北京房山店）",
+                "poiId": 40470614,
+                "price": 39.5,
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张最高立减6元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "referencePrice": "0",
+                "score": 810.6666,
+                "sellPrice": "39.5",
+                "shopId": 23090717,
+                "showTimes": "10:20 | 11:20 | 12:30",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "4K厅",
+                        "60帧厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4K厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "60帧厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                }
+            }
+        ],
+        "ct_pois": [
+            {
+                "ct_poi": "936879945111165696_a263_c0",
+                "poiid": 89010
+            },
+            {
+                "ct_poi": "936879945111165696_a13618_c1",
+                "poiid": 52294367
+            },
+            {
+                "ct_poi": "936879945111165696_a5736_c2",
+                "poiid": 332108
+            },
+            {
+                "ct_poi": "936879945111165696_a238_c3",
+                "poiid": 271442
+            },
+            {
+                "ct_poi": "936879945111165696_a15082_c4",
+                "poiid": 97314976
+            },
+            {
+                "ct_poi": "936879945111165696_a2548_c5",
+                "poiid": 1547150
+            },
+            {
+                "ct_poi": "936879945111165696_a1692_c6",
+                "poiid": 1439570
+            },
+            {
+                "ct_poi": "936879945111165696_a99_c7",
+                "poiid": 94496
+            },
+            {
+                "ct_poi": "936879945111165696_a8301_c8",
+                "poiid": 6151046
+            },
+            {
+                "ct_poi": "936879945111165696_a16152_c9",
+                "poiid": 105355906
+            },
+            {
+                "ct_poi": "936879945111165696_a5278_c10",
+                "poiid": 2393654
+            },
+            {
+                "ct_poi": "936879945111165696_a9370_c11",
+                "poiid": 5252975
+            },
+            {
+                "ct_poi": "936879945111165696_a2392_c12",
+                "poiid": 1481117
+            },
+            {
+                "ct_poi": "936879945111165696_a122_c13",
+                "poiid": 1076058
+            },
+            {
+                "ct_poi": "936879945111165696_a23617_c14",
+                "poiid": 158732678
+            },
+            {
+                "ct_poi": "936879945111165696_a256_c15",
+                "poiid": 89000
+            },
+            {
+                "ct_poi": "936879945111165696_a70_c16",
+                "poiid": 84440
+            },
+            {
+                "ct_poi": "936879945111165696_a269_c17",
+                "poiid": 271409
+            },
+            {
+                "ct_poi": "936879945111165696_a5111_c18",
+                "poiid": 2374984
+            },
+            {
+                "ct_poi": "936879945111165696_a13028_c19",
+                "poiid": 40470614
+            }
+        ],
+        "paging": {
+            "hasMore": true,
+            "limit": 20,
+            "offset": 0,
+            "total": 105
+        }
+    },
+    "errMsg": "",
+    "success": true
+}

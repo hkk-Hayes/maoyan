@@ -1,0 +1,707 @@
+{
+    "success": true,
+    "cinemas": {
+        "cinemas": [
+            {
+                "id": 37003,
+                "mark": 0,
+                "nm": "芒果凤凰海影城（东门店）",
+                "sellPrice": "9.9",
+                "addr": "罗湖区东门街道东门中心城(维景酒店)负一楼晒布地铁站A3出口即到",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减5元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 14477,
+                "mark": 0,
+                "nm": "万都国际影城（龙华店）",
+                "sellPrice": "9.9",
+                "addr": "龙华区清华路清湖老村花伴里旁（邻里购物中心3楼清湖老村公交站旁边）",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 25048,
+                "mark": 0,
+                "nm": "中影泰得影城东门店",
+                "sellPrice": "17.8",
+                "addr": "罗湖区东门街道解放路1034号鸿展广场三楼（太阳百货斜对面）",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 27853,
+                "mark": 0,
+                "nm": "核客影城（东门店）",
+                "sellPrice": "19.6",
+                "addr": "罗湖区东门街道东门社区深南东路3020百货广场5层L519",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减5元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 37641,
+                "mark": 0,
+                "nm": "至潮影城（平湖印象里店）",
+                "sellPrice": "19.9",
+                "addr": "龙岗区平湖坤宜福苑平湖印象里1楼",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": ""
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 16700,
+                "mark": 0,
+                "nm": "宝影国际影城（公明店）",
+                "sellPrice": "19.9",
+                "addr": "光明区玉律社区玉泉东路20-1号南海大厦四楼A区",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，10.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 17317,
+                "mark": 0,
+                "nm": "期遇•UUE巨幕影城（公明店）",
+                "sellPrice": "19.9",
+                "addr": "光明区公明街道合水口马田北路31号新天地购物广场3楼",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "巨幕厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，17.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 23819,
+                "mark": 0,
+                "nm": "中影南方激光影城（民治店）",
+                "sellPrice": "21.6",
+                "addr": "龙华区民治街道民治大道866号华侨新苑裙楼2楼（星程酒店旁边）",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减5元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 24345,
+                "mark": 0,
+                "nm": "君胜国际影城（深圳大康店）",
+                "sellPrice": "22",
+                "addr": "龙岗区横岗街道大康安兴路33号万骏隆购物广场4层",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，10.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 18,
+                "mark": 0,
+                "nm": "完美世界影城（深圳沙井店）",
+                "sellPrice": "22.9",
+                "addr": "宝安区沙井街道新沙路与中心路交汇处华润万家4楼A",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单2张票最高立减10元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 2149,
+                "mark": 0,
+                "nm": "嘉年华影城（龙岗老街店）",
+                "sellPrice": "22.9",
+                "addr": "龙岗区龙平东路（龙岗老街）人人购物广场4楼（龙岗老街）",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减3元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 23658,
+                "mark": 0,
+                "nm": "中影南方国际影城（万汇城店）",
+                "sellPrice": "22.9",
+                "addr": "光明区公明街道民生路71号信天生活广场(原万汇城)4、5楼（地铁6号线红花山站A出口直行200米）",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减3元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 17275,
+                "mark": 0,
+                "nm": "华夏星越影城（杜比全景声·民治万盛店）",
+                "sellPrice": "22.9",
+                "addr": "龙华区民治街道民治大道万众城万盛百货四楼",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减3元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 36744,
+                "mark": 0,
+                "nm": "中影逸达影城（龙岗老街君盛店）",
+                "sellPrice": "22.9",
+                "addr": "龙岗区龙平东路203号君盛百货三楼（沃尔玛三楼出口对面）",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减5元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 16828,
+                "mark": 0,
+                "nm": "逸达国际影城（荷坳店）",
+                "sellPrice": "22.9",
+                "addr": "龙岗区横岗街道金源路20号宝丰商场2楼",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减4元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 1,
+                "mark": 0,
+                "nm": "深圳戏院",
+                "sellPrice": "23",
+                "addr": "罗湖区新园路1号（东门步行街西口,老街地铁站F出口,上座影城正对面）",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，10.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 24590,
+                "mark": 0,
+                "nm": "中影大导演巨幕影城（深圳西乡店）",
+                "sellPrice": "23",
+                "addr": "宝安区西乡大道230号满京华艺峦大厦3座2楼",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "CGS中国巨幕厅",
+                        "杜比全景声厅",
+                        "4K厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "CGS中国巨幕厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4K厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减3元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 10795,
+                "mark": 0,
+                "nm": "中影百汇国际影城（南岭店）",
+                "sellPrice": "23",
+                "addr": "龙岗区南湾街道南岭社区三角街1-10号人人购物广场4层",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张票最高立减4元起",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 2623,
+                "mark": 0,
+                "nm": "新华银兴国际影城",
+                "sellPrice": "23",
+                "addr": "宝安区宝安大道与金海路交叉口金港华庭一栋三层（西乡汽车客运站对面）",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": ""
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 15436,
+                "mark": 0,
+                "nm": "中影熙腾影城（观澜店）",
+                "sellPrice": "23",
+                "addr": "龙华区观澜大水坑一村盛世华联4楼",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": ""
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            }
+        ],
+        "ct_pois": [
+            {
+                "ct_poi": "936879945111165696_a37003_c0",
+                "poiid": 1588235875
+            },
+            {
+                "ct_poi": "936879945111165696_a14477_c1",
+                "poiid": 79705380
+            },
+            {
+                "ct_poi": "936879945111165696_a25048_c2",
+                "poiid": 159164221
+            },
+            {
+                "ct_poi": "936879945111165696_a27853_c3",
+                "poiid": 1574803163
+            },
+            {
+                "ct_poi": "936879945111165696_a37641_c4",
+                "poiid": 813039007
+            },
+            {
+                "ct_poi": "936879945111165696_a16700_c5",
+                "poiid": 114495625
+            },
+            {
+                "ct_poi": "936879945111165696_a17317_c6",
+                "poiid": 156867938
+            },
+            {
+                "ct_poi": "936879945111165696_a23819_c7",
+                "poiid": 159004686
+            },
+            {
+                "ct_poi": "936879945111165696_a24345_c8",
+                "poiid": 164455572
+            },
+            {
+                "ct_poi": "936879945111165696_a18_c9",
+                "poiid": 1433068
+            },
+            {
+                "ct_poi": "936879945111165696_a2149_c10",
+                "poiid": 1465676
+            },
+            {
+                "ct_poi": "936879945111165696_a23658_c11",
+                "poiid": 159004137
+            },
+            {
+                "ct_poi": "936879945111165696_a17275_c12",
+                "poiid": 156641511
+            },
+            {
+                "ct_poi": "936879945111165696_a36744_c13",
+                "poiid": 1752120627
+            },
+            {
+                "ct_poi": "936879945111165696_a16828_c14",
+                "poiid": 150310654
+            },
+            {
+                "ct_poi": "936879945111165696_a1_c15",
+                "poiid": 1434140
+            },
+            {
+                "ct_poi": "936879945111165696_a24590_c16",
+                "poiid": 164919869
+            },
+            {
+                "ct_poi": "936879945111165696_a10795_c17",
+                "poiid": 42865075
+            },
+            {
+                "ct_poi": "936879945111165696_a2623_c18",
+                "poiid": 1566025
+            },
+            {
+                "ct_poi": "936879945111165696_a15436_c19",
+                "poiid": 92447648
+            }
+        ],
+        "paging": {
+            "hasMore": true,
+            "limit": 20,
+            "offset": 0,
+            "total": 317
+        }
+    },
+    "resId": "1649474371366"
+}

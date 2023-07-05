@@ -1,0 +1,1262 @@
+{
+    "code": 0,
+    "data": {
+        "brand": {
+            "name": "品牌",
+            "subItems": [
+                {
+                    "count": 50,
+                    "id": -1,
+                    "name": "全部"
+                },
+                {
+                    "count": 3,
+                    "id": 491849,
+                    "name": "华联影城"
+                },
+                {
+                    "count": 3,
+                    "id": 357245,
+                    "name": "CGV影城"
+                },
+                {
+                    "count": 2,
+                    "id": 418027,
+                    "name": "SFC上影影城"
+                },
+                {
+                    "count": 2,
+                    "id": 208114,
+                    "name": "耀莱成龙国际影城"
+                },
+                {
+                    "count": 2,
+                    "id": 481587,
+                    "name": "中影星美国际影城"
+                },
+                {
+                    "count": 1,
+                    "id": 494661,
+                    "name": "完美世界影城"
+                },
+                {
+                    "count": 1,
+                    "id": 327981,
+                    "name": "大地影院"
+                },
+                {
+                    "count": 1,
+                    "id": 324623,
+                    "name": "卢米埃影城"
+                },
+                {
+                    "count": 1,
+                    "id": 324137,
+                    "name": "华谊兄弟"
+                },
+                {
+                    "count": 1,
+                    "id": 358666,
+                    "name": "沃美影城"
+                },
+                {
+                    "count": 1,
+                    "id": 196371,
+                    "name": "保利国际影城"
+                },
+                {
+                    "count": 1,
+                    "id": 230647,
+                    "name": "太平洋电影城"
+                },
+                {
+                    "count": 1,
+                    "id": 378192,
+                    "name": "环球影城"
+                },
+                {
+                    "count": 1,
+                    "id": 188757,
+                    "name": "金逸影城"
+                },
+                {
+                    "count": 29,
+                    "id": 0,
+                    "name": "其他"
+                }
+            ]
+        },
+        "district": {
+            "name": "行政区",
+            "subItems": [
+                {
+                    "count": 50,
+                    "id": -1,
+                    "name": "全部",
+                    "subItems": []
+                },
+                {
+                    "count": 14,
+                    "id": 14,
+                    "name": "朝阳区",
+                    "subItems": [
+                        {
+                            "count": 14,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 4,
+                            "id": 673,
+                            "name": "望京",
+                            "subItems": []
+                        },
+                        {
+                            "count": 3,
+                            "id": 672,
+                            "name": "亚运村",
+                            "subItems": []
+                        },
+                        {
+                            "count": 2,
+                            "id": 668,
+                            "name": "朝外大街/世贸天阶",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 5976,
+                            "name": "慈云寺/八里庄",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1475,
+                            "name": "酒仙桥",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 46227,
+                            "name": "金盏",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1411,
+                            "name": "太阳宫",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1203,
+                            "name": "四惠",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 8,
+                    "id": 17,
+                    "name": "海淀区",
+                    "subItems": [
+                        {
+                            "count": 8,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1098,
+                            "name": "魏公村",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 697,
+                            "name": "颐和园",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 692,
+                            "name": "北下关",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 688,
+                            "name": "中关村",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1481,
+                            "name": "清河",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 8043,
+                            "name": "万柳",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 5728,
+                            "name": "西三旗",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 5,
+                    "id": 4750,
+                    "name": "昌平区",
+                    "subItems": [
+                        {
+                            "count": 5,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 2,
+                            "id": 4755,
+                            "name": "昌平镇",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 4753,
+                            "name": "回龙观",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 4754,
+                            "name": "天通苑",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 9174,
+                            "name": "沙河",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 4,
+                    "id": 708,
+                    "name": "顺义区",
+                    "subItems": [
+                        {
+                            "count": 4,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 2,
+                            "id": 13258,
+                            "name": "石园",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 15807,
+                            "name": "马坡牛栏山镇",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 46326,
+                            "name": "顺义",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 4,
+                    "id": 710,
+                    "name": "房山区",
+                    "subItems": [
+                        {
+                            "count": 4,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 3,
+                            "id": 13340,
+                            "name": "良乡",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 13339,
+                            "name": "长阳镇",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 3,
+                    "id": 4751,
+                    "name": "通州区",
+                    "subItems": [
+                        {
+                            "count": 3,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 4757,
+                            "name": "梨园",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 16688,
+                            "name": "宋庄",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 14123,
+                            "name": "马驹桥",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 3,
+                    "id": 20,
+                    "name": "丰台区",
+                    "subItems": [
+                        {
+                            "count": 3,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1097,
+                            "name": "洋桥/木樨园",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1766,
+                            "name": "刘家窑/宋家庄",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 42899,
+                            "name": "六里桥/丽泽桥",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 2,
+                    "id": 16,
+                    "name": "西城区",
+                    "subItems": [
+                        {
+                            "count": 2,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 702,
+                            "name": "前门/大栅栏",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1485,
+                            "name": "西四",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 2,
+                    "id": 4752,
+                    "name": "大兴区",
+                    "subItems": [
+                        {
+                            "count": 2,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 34936,
+                            "name": "庞各庄",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 41143,
+                            "name": "龙湖天街购物中心",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 2,
+                    "id": 2073,
+                    "name": "平谷区",
+                    "subItems": [
+                        {
+                            "count": 2,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 2,
+                            "id": 19162,
+                            "name": "平谷城区",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 711,
+                    "name": "怀柔区",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 19157,
+                            "name": "怀柔城区",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 15,
+                    "name": "东城区",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1161,
+                            "name": "东直门",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 2074,
+                    "name": "密云区",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 44231,
+                            "name": "密云鼓楼",
+                            "subItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        "hallType": {
+            "name": "特殊厅",
+            "subItems": [
+                {
+                    "count": 0,
+                    "id": -1,
+                    "name": "全部"
+                },
+                {
+                    "count": 0,
+                    "id": 2,
+                    "name": "IMAX厅"
+                },
+                {
+                    "count": 0,
+                    "id": 3,
+                    "name": "CGS中国巨幕厅"
+                },
+                {
+                    "count": 0,
+                    "id": 9,
+                    "name": "杜比全景声厅"
+                },
+                {
+                    "count": 0,
+                    "id": 22,
+                    "name": "Dolby Cinema厅"
+                },
+                {
+                    "count": 0,
+                    "id": 10,
+                    "name": "RealD厅"
+                },
+                {
+                    "count": 0,
+                    "id": 11,
+                    "name": "RealD 6FL厅"
+                },
+                {
+                    "count": 0,
+                    "id": 5,
+                    "name": "LUXE巨幕厅"
+                },
+                {
+                    "count": 0,
+                    "id": 4,
+                    "name": "4DX厅"
+                },
+                {
+                    "count": 0,
+                    "id": 25,
+                    "name": "DTS:X 临境音厅"
+                },
+                {
+                    "count": 0,
+                    "id": 24,
+                    "name": "儿童厅"
+                },
+                {
+                    "count": 0,
+                    "id": 8,
+                    "name": "4K厅"
+                },
+                {
+                    "count": 0,
+                    "id": 7,
+                    "name": "4D厅"
+                },
+                {
+                    "count": 0,
+                    "id": 14,
+                    "name": "60帧厅"
+                },
+                {
+                    "count": 0,
+                    "id": 16,
+                    "name": "120帧/4K厅"
+                },
+                {
+                    "count": 0,
+                    "id": 6,
+                    "name": "巨幕厅"
+                },
+                {
+                    "count": 0,
+                    "id": 27,
+                    "name": "CINITY厅"
+                },
+                {
+                    "count": 0,
+                    "id": 29,
+                    "name": "MX4D厅"
+                }
+            ]
+        },
+        "service": {
+            "name": "服务",
+            "subItems": [
+                {
+                    "count": 50,
+                    "id": -1,
+                    "name": "全部"
+                },
+                {
+                    "count": 44,
+                    "id": 3,
+                    "name": "可改签"
+                },
+                {
+                    "count": 17,
+                    "id": 2,
+                    "name": "可退票"
+                }
+            ]
+        },
+        "showType": {
+            "name": "特殊版本",
+            "subItems": [
+                {
+                    "count": 50,
+                    "id": -1,
+                    "name": "全部"
+                },
+                {
+                    "count": 530,
+                    "id": 2,
+                    "name": "2D场次"
+                }
+            ]
+        },
+        "subway": {
+            "name": "地铁",
+            "subItems": [
+                {
+                    "count": 50,
+                    "id": -1,
+                    "name": "全部",
+                    "subItems": []
+                },
+                {
+                    "count": 1,
+                    "id": 4,
+                    "name": "1号线",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 22,
+                            "name": "四惠",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 4,
+                    "id": 5,
+                    "name": "2号线",
+                    "subItems": [
+                        {
+                            "count": 4,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 31,
+                            "name": "前门",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 35,
+                            "name": "朝阳门",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 36,
+                            "name": "东四十条",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 37,
+                            "name": "东直门",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 7,
+                    "id": 6,
+                    "name": "4号线",
+                    "subItems": [
+                        {
+                            "count": 7,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 42,
+                            "name": "安河桥北",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 47,
+                            "name": "中关村",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 51,
+                            "name": "国家图书馆",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 57,
+                            "name": "灵境胡同",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 56,
+                            "name": "西四",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 5261,
+                            "name": "天宫院",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 5263,
+                            "name": "生物医药基地",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 4,
+                    "id": 7,
+                    "name": "5号线",
+                    "subItems": [
+                        {
+                            "count": 4,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 68,
+                            "name": "天通苑南",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 67,
+                            "name": "天通苑",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 72,
+                            "name": "大屯路东",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 88,
+                            "name": "宋家庄",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 3,
+                    "id": 8,
+                    "name": "6号线",
+                    "subItems": [
+                        {
+                            "count": 3,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 2,
+                            "id": 1259,
+                            "name": "东大桥",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1262,
+                            "name": "十里堡",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 76,
+                    "name": "7号线",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1456,
+                            "name": "珠市口",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 2,
+                    "id": 9,
+                    "name": "8号线",
+                    "subItems": [
+                        {
+                            "count": 2,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 95,
+                            "name": "森林公园南门",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 96,
+                            "name": "奥林匹克公园",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 240,
+                    "name": "8号线南段",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 6367,
+                            "name": "珠市口",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 2,
+                    "id": 10,
+                    "name": "9号线",
+                    "subItems": [
+                        {
+                            "count": 2,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1472,
+                            "name": "国家图书馆",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 101,
+                            "name": "六里桥",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 7,
+                    "id": 1,
+                    "name": "10号线",
+                    "subItems": [
+                        {
+                            "count": 7,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1476,
+                            "name": "角门东",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1268,
+                            "name": "火器营",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1275,
+                            "name": "六里桥",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1281,
+                            "name": "宋家庄",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 111,
+                            "name": "知春里",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 108,
+                            "name": "巴沟",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 120,
+                            "name": "太阳宫",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 2,
+                    "id": 2,
+                    "name": "13号线",
+                    "subItems": [
+                        {
+                            "count": 2,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 136,
+                            "name": "龙泽",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 145,
+                            "name": "东直门",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 7,
+                    "id": 75,
+                    "name": "14号线东段",
+                    "subItems": [
+                        {
+                            "count": 7,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 3,
+                            "id": 1491,
+                            "name": "望京南",
+                            "subItems": []
+                        },
+                        {
+                            "count": 2,
+                            "id": 1490,
+                            "name": "阜通",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1495,
+                            "name": "将台",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1489,
+                            "name": "来广营",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 6,
+                    "id": 3,
+                    "name": "15号线",
+                    "subItems": [
+                        {
+                            "count": 6,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 2,
+                            "id": 1480,
+                            "name": "安立路",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1477,
+                            "name": "大屯路东",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 155,
+                            "name": "石门",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 156,
+                            "name": "顺义",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 1484,
+                            "name": "奥林匹克公园",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 153,
+                    "name": "16号线",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 6677,
+                            "name": "国家图书馆",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 11,
+                    "name": "亦庄线",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 158,
+                            "name": "宋家庄",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 12,
+                    "name": "八通线",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 171,
+                            "name": "四惠",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 3,
+                    "id": 14,
+                    "name": "房山线",
+                    "subItems": [
+                        {
+                            "count": 3,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 200,
+                            "name": "良乡大学城北",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 203,
+                            "name": "长阳",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 197,
+                            "name": "良乡南关",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 15,
+                    "name": "昌平线",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 213,
+                            "name": "南邵",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 16,
+                    "name": "机场线",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 214,
+                            "name": "东直门",
+                            "subItems": []
+                        }
+                    ]
+                },
+                {
+                    "count": 1,
+                    "id": 200,
+                    "name": "西郊线",
+                    "subItems": [
+                        {
+                            "count": 1,
+                            "id": -1,
+                            "name": "全部",
+                            "subItems": []
+                        },
+                        {
+                            "count": 1,
+                            "id": 5277,
+                            "name": "巴沟",
+                            "subItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        "timeRanges": {
+            "name": "时段",
+            "subItems": [
+                {
+                    "count": 0,
+                    "id": 100000000,
+                    "name": "不限时段"
+                },
+                {
+                    "count": 0,
+                    "id": 100000900,
+                    "name": "9点以前"
+                },
+                {
+                    "count": 0,
+                    "id": 109001100,
+                    "name": "9-11点"
+                },
+                {
+                    "count": 0,
+                    "id": 111001300,
+                    "name": "11-13点"
+                },
+                {
+                    "count": 0,
+                    "id": 113001500,
+                    "name": "13-15点"
+                },
+                {
+                    "count": 0,
+                    "id": 115001700,
+                    "name": "15-17点"
+                },
+                {
+                    "count": 0,
+                    "id": 117001900,
+                    "name": "17-19点"
+                },
+                {
+                    "count": 0,
+                    "id": 119002100,
+                    "name": "19-21点"
+                },
+                {
+                    "count": 0,
+                    "id": 121002300,
+                    "name": "21-23点"
+                },
+                {
+                    "count": 0,
+                    "id": 123002359,
+                    "name": "23点以后"
+                }
+            ]
+        }
+    },
+    "errMsg": "",
+    "success": true
+}
